@@ -62,11 +62,11 @@ const Head = () => {
           </Flex>
         </Box>
         <Flex mt={6} gap={6} justify="center" animation={`${popUp} 1.8s ease-out`}>
-          <Link href="https://github.com/Ashishdanu" isExternal>
+          <Link href="https://github.com/Ayush243871" isExternal>
             <FaGithub size="32px" />
           </Link>
           <Link
-            href="https://www.linkedin.com/in/ashish-danu-3122b0303/"
+            href="https://www.linkedin.com/in/ayush-kumar-324217248/"
             isExternal
           >
             <FaLinkedin size="32px" />
