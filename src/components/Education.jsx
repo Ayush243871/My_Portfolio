@@ -1,6 +1,6 @@
 import { Box, Text, Heading, Image, Flex ,keyframes} from "@chakra-ui/react";
 import { FaCalendarAlt, FaGraduationCap } from "react-icons/fa"; // Importing an education icon
-import { KumaonLogo, Masailogo } from "../Logos";
+import { KumaonLogo, Masailogo, SKNCOELogo } from "../Logos";
 
 
 const popUp = keyframes`
@@ -38,7 +38,7 @@ const Education = () => {
       {/* SPPU */}
       <Box mb={6}>
         <Flex align="center" gap={4}>
-          <Image src={KumaonLogo} alt="Kumaon University Logo" boxSize="50px" />
+          <Image src={SKNCOELogo} alt="Kumaon University Logo" boxSize="50px" />
           <Box>
             <Text fontWeight="bold" fontSize="xl">
               Graduated from Smt. Kashibai Navale College of Engineering, Vadgaon
