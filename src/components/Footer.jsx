@@ -44,20 +44,18 @@ const Footer = () => {
       {/* Social Media Section */}
       <Flex gap={4}>
         {/* Add your social media links here */}
-        <a href="https://www.instagram.com/_ashish.danu/" target="_blank" rel="noopener noreferrer"> 
+        <a href="https://www.instagram.com/ig__ayush_kumar/" target="_blank" rel="noopener noreferrer"> 
           <Icon as={FaInstagram} boxSize={6} _hover={{ color: "pink.500" }} />
         </a>
-        <a href="https://x.com/_Ashish_Danu" target="_blank" rel="noopener noreferrer">
-          <Icon as={FaTwitter} boxSize={6} _hover={{ color: "blue.400" }} />
-        </a>
-        <a href="https://www.facebook.com/ashish.danu.14/" target="_blank" rel="noopener noreferrer"> {/* Facebook Link */}
+       
+        <a href="https://www.facebook.com/ayushykumar/" target="_blank" rel="noopener noreferrer"> {/* Facebook Link */}
           <Icon as={FaFacebook} boxSize={6} _hover={{ color: "blue.600" }} />
         </a>
       </Flex>
 
       {/* Additional Footer Elements */}
       <Flex flexDirection="column" alignItems="center" gap={2}>
-        <Text fontSize="sm">Designed & Developed by Ashish Danu</Text>
+        <Text fontSize="sm">Designed & Developed by Ayush Kumar</Text>
         <Text fontSize="sm">Feel free to connect or explore more on GitHub</Text>
       </Flex>
     </Box>

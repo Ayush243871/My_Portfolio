@@ -54,10 +54,10 @@ const Head = () => {
             animation={`${popUp} 1.6s ease-out`}
           >
            <Link href={`mailto:ashishdanu1100@gmail.com`} textDecoration="none">
-  <Text color={'orange'}>ashishdanu1100@gmail.com</Text>
+  <Text color={'orange'}>ayushykumar@gmail.com</Text>
 </Link>
 <Link href={`tel:9690959095`} textDecoration="none">
-  <Text color={'orange'}>9690959095</Text>
+  <Text color={'orange'}>8265040783</Text>
 </Link>
           </Flex>
         </Box>

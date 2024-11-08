@@ -29,23 +29,23 @@ const Education = () => {
             </Text>
             <Flex alignItems="center" fontSize="md" color="gray.600">
           <FaCalendarAlt />
-          <Text ml={2}>March 2024 - Present</Text>
+          <Text ml={2}>January 2024 - Present</Text>
         </Flex>
           </Box>
         </Flex>
       </Box>
 
-      {/* Kumaon University */}
+      {/* SPPU */}
       <Box mb={6}>
         <Flex align="center" gap={4}>
           <Image src={KumaonLogo} alt="Kumaon University Logo" boxSize="50px" />
           <Box>
             <Text fontWeight="bold" fontSize="xl">
-              Graduated from Kumaon University
+              Graduated from Smt. Kashibai Navale College of Engineering, Vadgaon
             </Text>
             <Flex alignItems="center" fontSize="md" color="gray.600">
           <FaCalendarAlt />
-          <Text ml={2}>July 2020 - Aug 2023</Text>
+          <Text ml={2}>July 2019 - Aug 2023</Text>
         </Flex>
           </Box>
         </Flex>
