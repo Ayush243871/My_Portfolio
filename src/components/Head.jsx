@@ -36,7 +36,7 @@ const Head = () => {
           marginTop={2}
           animation={`${popUp} 1.2s ease-out`}
         >
-          Ashish Danu
+          Ayush Kumar
         </Heading>
         <Text
           fontSize={{ base: "18px", md: "28px", lg: "36px" }}
