@@ -39,7 +39,7 @@ const Footer = () => {
           animation: `${wave} 1.5s ease forwards`,
         }}
       />
-      <Text>© 2024 Ashish Danu | Nainital, Uttarakhand</Text>
+      <Text>© 2024 Ayush Kumar | Pune, Maharasthra</Text>
 
       {/* Social Media Section */}
       <Flex gap={4}>
